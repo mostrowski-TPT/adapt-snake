@@ -1,0 +1,27 @@
+{{! Maintainers - Martin Sandberg}}
+<div class="component-inner piechart-inner">
+    {{#if title}}
+    <div class="component-title piechart-title">
+        <h4 class="component-title-inner piechart-title-inner">
+            {{{title}}}
+        </h4>
+    </div>
+    {{/if}}
+    {{#if body}}
+    <div class="component-body piechart-body">
+        <div class="component-body-inner piechart-body-inner">
+            {{{body}}}
+        </div>
+    </div>
+    {{/if}}
+    <div class="component-widget piechart-widget">
+        <canvas id="piechart_{{_id}}" width="{{maxsize}}" height="{{maxsize}}"></canvas>
+    </div>
+    <div class="component-body piechart-body">
+        <div class="component-body-inner piechart-body-inner">
+             {{#each items}}
+                    <span style="background-color: {{colour}}; height: 25px; width: 25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;&nbsp;{{name}} - {{value}}<BR />
+             {{/each}}
+        </div>
+    </div>
+</div>

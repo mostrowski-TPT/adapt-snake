@@ -1,0 +1,23 @@
+{
+  "name": "adapt-piechart",
+  "version": "0.0.1",
+  "description": "Piechart Template developed by Xtractor AB for Adapt Framework.",
+  "main": "",
+  "scripts": {
+    "test": "./node_modules/.bin/karma start --single-run --browsers PhantomJS"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MartinSandberg/adapt-piechart-master.git"
+  },
+  "author": "AdaptLearning",
+  "license": "GPL v3",
+  "bugs": {
+    "url": "https://github.com/MartinSandberg/adapt-piechart.master/issues"
+  },
+  "devDependencies": {
+    "karma": "~0.9",
+    "karma-mocha": "*",
+    "karma-expect": "*"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "adapt-contrib-flipcard",
+  "framework": "^2.0.0",
+  "version": "2.0.2",
+  "homepage": "https://github.com/ExultCorp/adapt-contrib-flipcard",
+  "issues": "https://github.com/ExultCorp/adapt-contrib-flipcard/issues",
+  "repository": "git://github.com/ExultCorp/adapt-contrib-flipcard.git",
+  "authors": [
+    "Himanshu Rajotia <himanshu.rajotia@exultcorp.com>"
+  ],
+  "description": "A presentation component which displays one or more images which reveal text when clicked, with a flip card effect",
+  "main": "/js/adapt-contrib-flipcard.js",
+  "displayName": "Flipcard",
+  "component": "flipcard",
+  "assetFields": [
+    "_items[].frontImageSrc"
+  ],
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3",
+  "_release": "2.0.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "2.0.2",
+    "commit": "85c1783f99df66c56b172a3300ad7de484b8c0bf"
+  },
+  "_source": "git://github.com/ExultCorp/adapt-contrib-flipcard.git",
+  "_target": "^2.0.2",
+  "_originalSource": "adapt-contrib-flipcard",
+  "_direct": true
+}

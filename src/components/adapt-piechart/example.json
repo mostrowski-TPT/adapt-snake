@@ -1,0 +1,39 @@
+{
+	"_id":"c55",
+	"_parentId":"b-20",
+	"_type":"component",
+	"_component":"piechart",
+	"_classes":"",
+	"_layout":"right",
+	"title": "Piechart",
+	"body": "Piechart component under development by Martin Sandberg.",
+        "maxsize": "500",
+        "legendsize": "25",
+        "items": [
+		{
+			"name":"Albert",
+			"colour":"#336633",
+			"value":"33"
+		},
+		{
+			"name":"Boris",
+			"colour":"#669966",
+			"value":"66"
+		},
+		{
+			"name":"Ceasar",
+			"colour":"#99DD99",
+			"value":"99"
+		},
+                {
+			"name":"David",
+			"colour":"#DDEEDD",
+			"value":"39"
+		},
+                {
+			"name":"Eric",
+			"colour":"#EEFFEE",
+			"value":"9"
+		}
+	]
+    }

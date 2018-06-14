@@ -1,0 +1,33 @@
+{
+  "name": "adapt-contrib-reveal",
+  "version": "2.2.2",
+  "repository": "git://github.com/LearningPool/adapt-contrib-reveal.git",
+  "homepage": "https://github.com/LearningPool/adapt-contrib-reveal",
+  "authors": [
+    "Brian Quinn <brian@learningpool.com>",
+    "Dan Gray <dan@delta-net.co.uk>"
+  ],
+  "displayName": "Reveal",
+  "component": "reveal",
+  "assetFields": [
+    "first.src",
+    "second.src"
+  ],
+  "description": "A component which allows displaying alternating images and/or text via a slider control",
+  "main": "/js/adapt-contrib-reveal.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3",
+  "_release": "2.2.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.2.2",
+    "commit": "c84313c7923a407dd4f8c52c1f0976ed3656fb48"
+  },
+  "_source": "git://github.com/LearningPool/adapt-contrib-reveal.git",
+  "_target": "^2.2.2",
+  "_originalSource": "adapt-contrib-reveal",
+  "_direct": true
+}

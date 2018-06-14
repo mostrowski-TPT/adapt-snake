@@ -1,0 +1,15 @@
+{
+  "name": "adapt-piechart",
+  "version": "0.0.1",
+   "repository": "git://github.com/MartinSandberg/adapt-piechart-master.git",
+  "homepage": "https://github.com/MartinSandberg/adapt-piechart-master",
+  "authors": [
+    "Martin Sandberg <martin.sandberg@xtractor.se>"
+  ],
+  "description": "Piechart Template developed by Xtractor AB for Adapt Framework.",
+  "main": "/js/adapt-piechart.js",
+  "keywords": [
+    "adapt-component"
+  ],
+  "license": "GPLv3"
+}

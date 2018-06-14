@@ -1,0 +1,17 @@
+[
+    {
+        "_id": "c-180",
+        "_parentId": "b-126",
+        "_type": "component",
+        "_component": "componentName",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Snake game",
+        "displayTitle": "Snake game",
+        "body": "",
+        "instruction": "Use space or down to pause and space or up to resume.",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+	}
+]
